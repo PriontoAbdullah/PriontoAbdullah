@@ -20,7 +20,6 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 - ⚡ Fun fact: I really love to travel and explore new things in my free time.
 - 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1H7u2K16gZPglouB6SEoTPlbRJWGIagp3/view) for more details about me. I'm open to feedback and suggestions!
 
- 
 
 <br />
 
@@ -28,57 +27,52 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 
 <div align="center">
 
-<img src="https://i.imgur.com/Riq5bIb.png" height="50" width="50">
-<img src="https://i.imgur.com/Uivesm4.png" height="50" width="50">
-<img src="https://i.imgur.com/KUlechH.png" height="50" width="50">
+<img src="https://i.imgur.com/Riq5bIb.png" height="40" width="40">
+<img src="https://i.imgur.com/Uivesm4.png" height="40" width="40">
+<img src="https://i.imgur.com/KUlechH.png" height="40" width="40">
 <img src="https://i.imgur.com/lPav31e.png" height="45" width="65">
-<img src="https://i.imgur.com/uTwsATT.png" height="50" width="50">
-<img src="https://i.imgur.com/0zjDnXw.png" height="50" width="50">
-<img src="https://i.imgur.com/JcUsLfc.png" height="50" width="50">
-<img src="https://i.imgur.com/pWp0iDn.png" height="50" width="50">
-<img src="https://i.imgur.com/wsUmcb5.png" height="50" width="50">
-<img src="https://i.imgur.com/3NP07nj.png" height="50" width="50">
-<img src="https://i.imgur.com/mH7zbFv.png" height="50" width="35">
-<img src="https://i.imgur.com/9Ulh3vX.png" height="50" width="50">
-<img src="https://i.imgur.com/apxFVxR.png" height="50" width="50">
-<img src="https://i.imgur.com/t74wIVs.png" height="50" width="50">
-<img src="https://i.imgur.com/egRbxBy.png" height="50" width="50">
+<img src="https://i.imgur.com/uTwsATT.png" height="40" width="40">
+<img src="https://i.imgur.com/0zjDnXw.png" height="40" width="40">
+<img src="https://i.imgur.com/JcUsLfc.png" height="40" width="40">
+<img src="https://i.imgur.com/pWp0iDn.png" height="40" width="40">
+<img src="https://i.imgur.com/wsUmcb5.png" height="40" width="40">
+<img src="https://i.imgur.com/3NP07nj.png" height="40" width="40">
+<img src="https://i.imgur.com/mH7zbFv.png" height="40" width="35">
+<img src="https://i.imgur.com/9Ulh3vX.png" height="40" width="40">
+<img src="https://i.imgur.com/apxFVxR.png" height="40" width="40">
+<img src="https://i.imgur.com/t74wIVs.png" height="40" width="40">
+<img src="https://i.imgur.com/egRbxBy.png" height="40" width="40">
 
-<br>
+<br />
 
-<img src="https://i.imgur.com/CfbGSw2.png" height="50" width="50">
-<img src="https://i.imgur.com/ydbeeyk.png" height="50" width="50">
-<img src="https://i.imgur.com/054LTZq.png" height="55" width="55">
-<img src="https://i.imgur.com/mQGR6nx.png" height="50" width="50">
-<img src="https://i.imgur.com/x6EieWc.png" height="50" width="50">
-<img src="https://i.imgur.com/K5LeVnW.png" height="50" width="60">
-<img src="https://i.imgur.com/ehWaPTK.png" height="50" width="50">
+<img src="https://i.imgur.com/CfbGSw2.png" height="40" width="40">
+<img src="https://i.imgur.com/ydbeeyk.png" height="40" width="40">
+<img src="https://i.imgur.com/054LTZq.png" height="45" width="45">
+<img src="https://i.imgur.com/mQGR6nx.png" height="40" width="40">
+<img src="https://i.imgur.com/x6EieWc.png" height="40" width="40">
+<img src="https://i.imgur.com/K5LeVnW.png" height="40" width="60">
+<img src="https://i.imgur.com/ehWaPTK.png" height="40" width="40">
 <img src="https://i.imgur.com/EtRNN8U.png" height="35" width="60">
-<img src="https://i.imgur.com/VjulBsn.png" height="50" width="40">
-<img src="https://i.imgur.com/H3C168v.png" height="50" width="50">
-<img src="https://i.imgur.com/bbawh2F.png" height="50" width="50">
-<img src="https://i.imgur.com/0BKuO1I.png" height="50" width="50">
-<img src="https://i.imgur.com/b65wQ01.png" height="50" width="50">
-<img src="https://i.imgur.com/0EZWddS.png" height="50" width="50">
-<img src="https://i.imgur.com/yBHwdqa.png" height="50" width="50">
-
+<img src="https://i.imgur.com/VjulBsn.png" height="40" width="40">
+<img src="https://i.imgur.com/H3C168v.png" height="40" width="40">
+<img src="https://i.imgur.com/bbawh2F.png" height="40" width="40">
+<img src="https://i.imgur.com/0BKuO1I.png" height="40" width="40">
+<img src="https://i.imgur.com/b65wQ01.png" height="40" width="40">
+<img src="https://i.imgur.com/0EZWddS.png" height="40" width="40">
+<img src="https://i.imgur.com/yBHwdqa.png" height="40" width="40">
 </div>
 
-<br >
+<br /> <br />
 
 ## 🏆 Github Status
 
-<a href="https://github.com/AVS1508">
-  <img src="https://github-readme-stats.vercel.app/api?username=PriontoAbdullah&show_icons=true&hide_border=true&theme=radical" width="35%" align="left"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=PriontoAbdullah&theme=radical" width="33%" align="center"/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=PriontoAbdullah&theme=radical&layout=compact&exclude_lang=java+r" width="26%" align="right"/>
-</a>
+<img  src="https://github-readme-stats.vercel.app/api?username=PriontoAbdullah&show_icons=true&hide_border=true&theme=radical" width="45%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=PriontoAbdullah&theme=radical" width="45%" >
 
-<br>
 
+<br /> <br />
 
 <div align="center">
-
 
 ### Show some ❤️ by starring ⭐ some of the repositories!
 
@@ -88,7 +82,6 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 [<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white">](https://prionto71.medium.com/)
 [<img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white">](https://www.facebook.com/prionto.abdullah.71/)
 [<img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white">](https://www.instagram.com/prionto_abdullah/)
-
 
 </div>
 
