@@ -27,35 +27,35 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 <div align="center">
   
 
-<img src="https://i.imgur.com/Riq5bIb.png" height="60" width="60">
-<img src="https://i.imgur.com/Uivesm4.png" height="60" width="60">
-<img src="https://i.imgur.com/KUlechH.png" height="60" width="60">
-<img src="https://i.imgur.com/LqXEMnG.png" height="60" width="60">
-<img src="https://i.imgur.com/uTwsATT.png" height="60" width="60">
-<img src="https://i.imgur.com/0zjDnXw.png" height="60" width="60">
-<img src="https://i.imgur.com/JcUsLfc.png" height="60" width="60">
-<img src="https://i.imgur.com/pWp0iDn.png" height="60" width="60">
-<img src="https://i.imgur.com/wsUmcb5.png" height="60" width="60">
-<img src="https://i.imgur.com/3NP07nj.png" height="60" width="60">
-<img src="https://i.imgur.com/IKOmxQQ.png" height="60" width="60">
-<img src="https://i.imgur.com/9Ulh3vX.png" height="60" width="60">
-<img src="https://i.imgur.com/apxFVxR.png" height="60" width="60">
+<img src="https://i.imgur.com/Riq5bIb.png" height="50" width="50">
+<img src="https://i.imgur.com/Uivesm4.png" height="50" width="50">
+<img src="https://i.imgur.com/KUlechH.png" height="50" width="50">
+<img src="https://i.imgur.com/lPav31e.png" height="40" width="60">
+<img src="https://i.imgur.com/uTwsATT.png" height="50" width="50">
+<img src="https://i.imgur.com/0zjDnXw.png" height="50" width="50">
+<img src="https://i.imgur.com/JcUsLfc.png" height="50" width="50">
+<img src="https://i.imgur.com/pWp0iDn.png" height="50" width="50">
+<img src="https://i.imgur.com/wsUmcb5.png" height="50" width="50">
+<img src="https://i.imgur.com/3NP07nj.png" height="50" width="50">
+<img src="https://i.imgur.com/IKOmxQQ.png" height="50" width="60">
+<img src="https://i.imgur.com/9Ulh3vX.png" height="50" width="50">
+<img src="https://i.imgur.com/apxFVxR.png" height="50" width="50">
 
 <br>
 
-<img src="https://i.imgur.com/CfbGSw2.png" height="60" width="60">
-<img src="https://i.imgur.com/ydbeeyk.png" height="60" width="60">
-<img src="https://i.imgur.com/054LTZq.png" height="60" width="60">
-<img src="https://i.imgur.com/x6EieWc.png" height="60" width="60">
-<img src="https://i.imgur.com/K5LeVnW.png" height="60" width="60">
-<img src="https://i.imgur.com/ehWaPTK.png" height="60" width="60">
-<img src="https://i.imgur.com/EtRNN8U.png" height="60" width="60">
-<img src="https://i.imgur.com/VjulBsn.png" height="60" width="60">
-<img src="https://i.imgur.com/H3C168v.png" height="60" width="60">
-<img src="https://i.imgur.com/bbawh2F.png" height="60" width="60">
-<img src="https://i.imgur.com/0BKuO1I.png" height="60" width="60">
-<img src="https://i.imgur.com/b65wQ01.png" height="60" width="60">
-<img src="https://i.imgur.com/0EZWddS.png" height="60" width="60">
+<img src="https://i.imgur.com/CfbGSw2.png" height="50" width="50">
+<img src="https://i.imgur.com/ydbeeyk.png" height="50" width="50">
+<img src="https://i.imgur.com/054LTZq.png" height="55" width="55">
+<img src="https://i.imgur.com/x6EieWc.png" height="50" width="50">
+<img src="https://i.imgur.com/K5LeVnW.png" height="50" width="60">
+<img src="https://i.imgur.com/ehWaPTK.png" height="50" width="50">
+<img src="https://i.imgur.com/EtRNN8U.png" height="35" width="60">
+<img src="https://i.imgur.com/VjulBsn.png" height="50" width="40">
+<img src="https://i.imgur.com/H3C168v.png" height="50" width="50">
+<img src="https://i.imgur.com/bbawh2F.png" height="50" width="50">
+<img src="https://i.imgur.com/0BKuO1I.png" height="50" width="50">
+<img src="https://i.imgur.com/b65wQ01.png" height="50" width="50">
+<img src="https://i.imgur.com/0EZWddS.png" height="50" width="50">
 
 </div>
 
