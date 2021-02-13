@@ -2,9 +2,9 @@
 
 <h1 align="center"> Hello, I'm Prionto Abdullah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
 
-<h3 align="center">I'm a Software and Web Developer from Bangladesh ❤</h3>
-  
-A 23Y/O Software🌈 and Web developer🎯 from Bangladesh. I'm passionate about Full-Stack Web Development.:bar_chart:. I like automating things, building pipelines, exploring scalability problems and improving efficiency and performance. Strong Advocate for 📜 open source, :cloud: Cloud computing, 🚀 DevOps, :new: Innovation and Automation :robot: 
+<h3 align="center">I'm an enthusiastic and passionate Web Developer from Bangladesh ❤</h3>  
+
+A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka, 🇧🇩 🌎. Now I'm a final year student of undergrad Software Engineering 👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web 🚀. 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=PriontoAbdullah.PriontoAbdullah)
 ![age](https://img.shields.io/badge/age-21-blue)
@@ -13,13 +13,14 @@ A 23Y/O Software🌈 and Web developer🎯 from Bangladesh. I'm passionate about
 
 <img width="40%" align="right" alt="Github Image" src="https://media.giphy.com/media/V21UwO1oh2nswmq08I/giphy.gif" />
 
-- 🌱 I’m currently learning NodeJs, NextJS and ReactJs
-- 👯 I’m looking to collaborate on MERN Stack projects 
-- 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/prionto_abdullah/) 
+- 🌱 I’m currently learning NodeJs, NextJS, MongoDB and  React-Native.
+- 👯 I’m looking to collaborate on MERN Stack projects with other passionate developers.
+- 🥅 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects.
+- ⚡ Fun fact: I really love to travel and explore new things in my free time.
 - 📝 [Resume](https://drive.google.com/file/d/1H7u2K16gZPglouB6SEoTPlbRJWGIagp3/view)
-- ⚡ Fun fact: Jack of all trades , Master of None ! 
-<br />
+ 
 
+<br />
 
 ## 👨‍💻 Languages and Tools
 
@@ -36,7 +37,9 @@ A 23Y/O Software🌈 and Web developer🎯 from Bangladesh. I'm passionate about
 <img src="https://i.imgur.com/pWp0iDn.png" height="60" width="60">
 <img src="https://i.imgur.com/wsUmcb5.png" height="60" width="60">
 <img src="https://i.imgur.com/3NP07nj.png" height="60" width="60">
-
+<img src="https://i.imgur.com/IKOmxQQ.png" height="60" width="60">
+<img src="https://i.imgur.com/9Ulh3vX.png" height="60" width="60">
+<img src="https://i.imgur.com/apxFVxR.png" height="60" width="60">
 
 <br>
 
@@ -46,10 +49,13 @@ A 23Y/O Software🌈 and Web developer🎯 from Bangladesh. I'm passionate about
 <img src="https://i.imgur.com/x6EieWc.png" height="60" width="60">
 <img src="https://i.imgur.com/K5LeVnW.png" height="60" width="60">
 <img src="https://i.imgur.com/ehWaPTK.png" height="60" width="60">
+<img src="https://i.imgur.com/EtRNN8U.png" height="60" width="60">
 <img src="https://i.imgur.com/VjulBsn.png" height="60" width="60">
 <img src="https://i.imgur.com/H3C168v.png" height="60" width="60">
+<img src="https://i.imgur.com/bbawh2F.png" height="60" width="60">
 <img src="https://i.imgur.com/0BKuO1I.png" height="60" width="60">
 <img src="https://i.imgur.com/b65wQ01.png" height="60" width="60">
+<img src="https://i.imgur.com/0EZWddS.png" height="60" width="60">
 
 </div>
 
