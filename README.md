@@ -11,10 +11,10 @@ A 23Y/O Software🌈 and Web developer🎯 from Bangladesh. I'm passionate about
 ![focus](https://img.shields.io/badge/focus-FullStack-brightgreen)
 ![living](https://img.shields.io/badge/living-Bhubaneswar-3c9)
 
-<img width="50%" align="right" alt="Github Image" src="https://media.giphy.com/media/V21UwO1oh2nswmq08I/giphy.gif" />
+<img width="40%" align="right" alt="Github Image" src="https://media.giphy.com/media/V21UwO1oh2nswmq08I/giphy.gif" />
 
 - 🌱 I’m currently learning NodeJs, NextJS and ReactJs
-- 👯 I’m looking to collaborate on MERN Stack projects and Basic Web Dev stuff
+- 👯 I’m looking to collaborate on MERN Stack projects 
 - 📫 How to reach me: You may follow me on [Instagram](https://www.instagram.com/prionto_abdullah/) 
 - 📝 [Resume](https://drive.google.com/file/d/1H7u2K16gZPglouB6SEoTPlbRJWGIagp3/view)
 - ⚡ Fun fact: Jack of all trades , Master of None ! 
@@ -26,27 +26,30 @@ A 23Y/O Software🌈 and Web developer🎯 from Bangladesh. I'm passionate about
 <div align="center">
   
 
-<img src="https://github.com/PriontoAbdullah/PriontoAbdullah/blob/master/logos/react.png?raw=true" height="60" width="60">
-<img src="https://github.com/PriontoAbdullah/PriontoAbdullah/blob/master/logos/JS.png?raw=true" height="60" width="60">
-<img src="https://github.com/PriontoAbdullah/PriontoAbdullah/blob/master/logos/ecmascript6.png?raw=true" height="60" width="60">
-<img src="https://github.com/PriontoAbdullah/PriontoAbdullah/blob/master/logos/nodejs.png?raw=true" height="60" width="60">
-<img src="https://github.com/PriontoAbdullah/PriontoAbdullah/blob/master/logos/git.png?raw=true" height="60" width="60">
-<img src="https://github.com/PriontoAbdullah/PriontoAbdullah/blob/master/logos/vs.png?raw=true" height="60" width="60">
-<img src="https://github.com/PriontoAbdullah/PriontoAbdullah/blob/master/logos/bootstrap.png?raw=true" height="60" width="60">
-<img height="60" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png">
+<img src="https://i.imgur.com/Riq5bIb.png" height="60" width="60">
+<img src="https://i.imgur.com/Uivesm4.png" height="60" width="60">
+<img src="https://i.imgur.com/KUlechH.png" height="60" width="60">
+<img src="https://i.imgur.com/LqXEMnG.png" height="60" width="60">
+<img src="https://i.imgur.com/uTwsATT.png" height="60" width="60">
+<img src="https://i.imgur.com/0zjDnXw.png" height="60" width="60">
+<img src="https://i.imgur.com/JcUsLfc.png" height="60" width="60">
+<img src="https://i.imgur.com/pWp0iDn.png" height="60" width="60">
+<img src="https://i.imgur.com/wsUmcb5.png" height="60" width="60">
+<img src="https://i.imgur.com/3NP07nj.png" height="60" width="60">
 
 
 <br>
 
-<img src="https://github.com/PriontoAbdullah/PriontoAbdullah/blob/master/logos/c++.png?raw=true" height="60" width="60">
-<img src="https://github.com/PriontoAbdullah/PriontoAbdullah/blob/master/logos/python.png?raw=true" height="60" width="60">
-<img src="https://github.com/PriontoAbdullah/PriontoAbdullah/blob/master/logos/JS.png?raw=true" height="60" width="60">
-<img src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" height="60" width="60">
-<img src="https://github.com/PriontoAbdullah/PriontoAbdullah/blob/master/logos/next.png?raw=true" height="60" width="60">
-<img src="https://github.com/PriontoAbdullah/PriontoAbdullah/blob/master/logos/css.png?raw=true" height="60" width="60">
-<img src="https://github.com/PriontoAbdullah/PriontoAbdullah/blob/master/logos/html.png?raw=true" height="60" width="60">
-<img src="https://github.com/PriontoAbdullah/PriontoAbdullah/blob/master/logos/django.jpg?raw=true" height="60" width="60">
-<img src="https://img.icons8.com/color/452/mongodb.png" height="60" width="60">
+<img src="https://i.imgur.com/CfbGSw2.png" height="60" width="60">
+<img src="https://i.imgur.com/ydbeeyk.png" height="60" width="60">
+<img src="https://i.imgur.com/054LTZq.png" height="60" width="60">
+<img src="https://i.imgur.com/x6EieWc.png" height="60" width="60">
+<img src="https://i.imgur.com/K5LeVnW.png" height="60" width="60">
+<img src="https://i.imgur.com/ehWaPTK.png" height="60" width="60">
+<img src="https://i.imgur.com/VjulBsn.png" height="60" width="60">
+<img src="https://i.imgur.com/H3C168v.png" height="60" width="60">
+<img src="https://i.imgur.com/0BKuO1I.png" height="60" width="60">
+<img src="https://i.imgur.com/b65wQ01.png" height="60" width="60">
 
 </div>
 
