@@ -7,14 +7,14 @@
 A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka, 🇧🇩 🌎. Now I'm a final year student of undergrad Software Engineering 👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web 🚀. 
 
 ![](https://visitor-badge.glitch.me/badge?page_id=PriontoAbdullah.PriontoAbdullah)
-![age](https://img.shields.io/badge/age-23-blueviolet)
+![age](https://img.shields.io/badge/age-24-blueviolet)
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![living](https://img.shields.io/badge/living-Dhaka-3c9)
 
 <img width="40%" align="right" alt="Github Image" src="https://media.giphy.com/media/V21UwO1oh2nswmq08I/giphy.gif" />
 
 - 💡 I like to explore new technologies and develop software solutions and quick hacks.
-- 🌱 I’m currently learning NodeJs, NextJS, MongoDB and  React-Native.
+- 🌱 I’m currently learning TypeScript, NextJS, GraphQL and React-Native.
 - 👯 I’m looking to collaborate on MERN Stack projects with other passionate developers.
 - 🥅 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects.
 - ⚡ Fun fact: I really love to travel and explore new things in my free time.
@@ -33,8 +33,11 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 <img src="https://i.imgur.com/lPav31e.png" height="45" width="65">
 <img src="https://i.imgur.com/uTwsATT.png" height="40" width="40">
 <img src="https://i.imgur.com/0zjDnXw.png" height="40" width="40">
+<img src="https://i.imgur.com/VBd4aS3.png" height="40" width="40">
 <img src="https://i.imgur.com/JcUsLfc.png" height="40" width="40">
-<img src="https://i.imgur.com/pWp0iDn.png" height="40" width="40">
+<img src="https://i.imgur.com/KSZRGKH.png" height="45" width="40">
+<img src="https://i.imgur.com/pWp0iDn.png" height="40" width="40"> 
+<img src="https://i.imgur.com/wa305S7.png" height="40" width="40">
 <img src="https://i.imgur.com/wsUmcb5.png" height="40" width="40">
 <img src="https://i.imgur.com/3NP07nj.png" height="40" width="40">
 <img src="https://i.imgur.com/mH7zbFv.png" height="40" width="35">
@@ -52,7 +55,10 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 <img src="https://i.imgur.com/x6EieWc.png" height="40" width="40">
 <img src="https://i.imgur.com/K5LeVnW.png" height="40" width="60">
 <img src="https://i.imgur.com/ehWaPTK.png" height="40" width="40">
+<img src="https://i.imgur.com/4ryo0Qh.png" height="40" width="40">
+<img src="https://i.imgur.com/59p9PDP.png" height="40" width="40">
 <img src="https://i.imgur.com/EtRNN8U.png" height="35" width="60">
+<img src="https://i.imgur.com/DjzmcTo.png" height="40" width="40">
 <img src="https://i.imgur.com/VjulBsn.png" height="40" width="40">
 <img src="https://i.imgur.com/H3C168v.png" height="40" width="40">
 <img src="https://i.imgur.com/bbawh2F.png" height="40" width="40">
