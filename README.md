@@ -9,7 +9,8 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 ![](https://visitor-badge.glitch.me/badge?page_id=PriontoAbdullah.PriontoAbdullah)
 ![age](https://img.shields.io/badge/age-24-blueviolet)
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
-![living](https://img.shields.io/badge/living-Dhaka-3c9)
+![living](https://img.shields.io/badge/living-Dhaka-ff69b4)
+![projects](https://img.shields.io/badge/projects-32-important)
 
 <img width="40%" align="right" alt="Github Image" src="https://media.giphy.com/media/V21UwO1oh2nswmq08I/giphy.gif" />
 
@@ -19,7 +20,6 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 - 🥅 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects.
 - ⚡ Fun fact: I really love to travel and explore new things in my free time.
 - 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1YzlMEepFLKG_db58VOiWEgkMeo7_3aeX/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
-
 
 <br />
 
@@ -71,15 +71,21 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 <br /> 
 
 ## 🎀 Favourite Stack
-<img align="left" alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img align="left" alt="Redux.js" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
-<img align="left" alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-<img align="left" alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-<img align="left" alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-<img align="left" alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
-<img align="left" alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-<br /> <br />
+<div align="left">
+ 
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
+<img alt="React.js" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+<img alt="Redux.js" src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" />
+<img alt="TailwindCSS" src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+<img alt="Next.js" src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+<img alt="Node.js" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
+<img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
+<img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+
+</div>
+  
+<br /> 
 
 ## 🏆 Github Status
 
@@ -90,7 +96,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 
 <div align="center">
 
-### Show some ❤️ by starring ⭐ some of the repositories!
+## Show some ❤️ by starring ⭐ some of the repositories!
 
 [<img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=61DAFB">](https://prionto-71.web.app/)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">](https://mail.google.com/mail/?view=cm&fs=1&to=prionto71@gmail.com)
@@ -102,9 +108,5 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 </div>
 
 ![](https://i.imgur.com/IuzIC2j.png)
-
-
-
-
 
 
