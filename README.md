@@ -10,7 +10,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 ![age](https://img.shields.io/badge/age-24-blueviolet)
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![living](https://img.shields.io/badge/living-Dhaka-ff69b4)
-![projects](https://img.shields.io/badge/projects-32-important)
+![projects](https://img.shields.io/badge/projects-33-important)
 
 <img width="40%" align="right" alt="Github Image" src="https://media.giphy.com/media/V21UwO1oh2nswmq08I/giphy.gif" />
 
@@ -19,7 +19,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 - 👯 I’m looking to collaborate on MERN Stack projects with other passionate developers.
 - 🥅 2021 Goals: Master React, Complete MERN Stack. Contribute to Open Source projects.
 - ⚡ Fun fact: I really love to travel and explore new things in my free time.
-- 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1MPHN_A-cypay_nuKrrGhxliZfVIJO6Oi/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+- 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1W1qOeiwtA_z7bTVZTjyOtagnEdOSJttK/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
 
 <br />
 
