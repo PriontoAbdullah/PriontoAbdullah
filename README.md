@@ -34,6 +34,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 <img src="https://i.imgur.com/uTwsATT.png" height="40" width="40">
 <img src="https://i.imgur.com/0zjDnXw.png" height="40" width="40">
 <img src="https://i.imgur.com/VBd4aS3.png" height="40" width="40">
+<img src="https://i.imgur.com/KSZRGKH.png" height="45" width="40">
 <img src="https://i.imgur.com/JcUsLfc.png" height="40" width="40">
 <img src="https://i.imgur.com/pWp0iDn.png" height="40" width="40"> 
 <img src="https://i.imgur.com/wa305S7.png" height="40" width="40">
@@ -56,7 +57,6 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 <img src="https://i.imgur.com/ehWaPTK.png" height="40" width="40">
 <img src="https://i.imgur.com/4ryo0Qh.png" height="40" width="40">
 <img src="https://i.imgur.com/59p9PDP.png" height="40" width="40">
-<img src="https://i.imgur.com/EtRNN8U.png" height="35" width="60">
 <img src="https://i.imgur.com/DjzmcTo.png" height="40" width="40">
 <img src="https://i.imgur.com/VjulBsn.png" height="40" width="40">
 <img src="https://i.imgur.com/H3C168v.png" height="40" width="40">
