@@ -35,7 +35,6 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 <img src="https://i.imgur.com/0zjDnXw.png" height="40" width="40">
 <img src="https://i.imgur.com/VBd4aS3.png" height="40" width="40">
 <img src="https://i.imgur.com/JcUsLfc.png" height="40" width="40">
-<img src="https://i.imgur.com/KSZRGKH.png" height="45" width="40">
 <img src="https://i.imgur.com/pWp0iDn.png" height="40" width="40"> 
 <img src="https://i.imgur.com/wa305S7.png" height="40" width="40">
 <img src="https://i.imgur.com/wsUmcb5.png" height="40" width="40">
