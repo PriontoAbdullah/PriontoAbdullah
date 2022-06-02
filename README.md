@@ -1,15 +1,15 @@
 ![](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 
-<h1 align="center"> Hello, I'm Prionto Abdullah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<h1 align="center"> Hello, I'm Prionto Abdullah <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" height="30px" > ! </h1>
 
-<h3 align="center">I'm an enthusiastic and passionate Web Developer from Bangladesh ❤</h3>  
+<h3 align="center">I'm an enthusiastic and passionate Software Developer from Bangladesh ❤</h3>  
 
 
 <div align="left">
 
 <a href="https://app.daily.dev/prionto"><img src="https://api.daily.dev/devcards/df2d5c9fa7ce4e579ee972f740144dec.png?r=y3h" width="25%" align="right" alt="Prionto Adbullah's Dev Card"/></a>
 
-A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka, 🇧🇩 🌎. Now I'm a final year student of undergrad Software Engineering 👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web 🚀. 
+A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka, 🇧🇩 🌎. Now I am working as a software engineer at Buyonia Limited, Barking, United Kingdom, 🇬🇧👨‍🎓. I love to work with new technologies and developing web applications 🔭. Currently, I am learning how to improve the performance of progressive web applications for better user experience 🌱. I’m looking to apply my skills as part of a fast-paced, quality-driven team in order to build better experiences on the web and mobile app 🚀. 
 
   <br />
   
@@ -17,7 +17,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 ![age](https://img.shields.io/badge/age-25-blueviolet)
 ![focus](https://img.shields.io/badge/focus-FullStack-critical)
 ![living](https://img.shields.io/badge/living-Dhaka-ff69b4)
-![projects](https://img.shields.io/badge/projects-36-important)
+![projects](https://img.shields.io/badge/projects-38-important)
 
   <br />
 
@@ -26,7 +26,7 @@ A self-taught, passionate and fast-learner full-stack developer 🎯 from Dhaka,
 - 👯 I’m looking to collaborate on MERN Stack projects with other passionate developers.
 - 🥅 2022 Goals: Master React Native. Contribute to Open Source projects.
 - ⚡ Fun fact: I really love to travel and explore new things in my free time.
-- 📝 Please have a look at my [Resume](https://drive.google.com/file/d/1W1qOeiwtA_z7bTVZTjyOtagnEdOSJttK/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
+- 📝 Please have a look at my [Resume](https://drive.google.com/file/d/122e7fb7rYWnGFubJWPRz5LUBf-dJjoTr/view?usp=sharing) for more details about me. I'm open to feedback and suggestions!
   
  </div>
 
